@@ -14,27 +14,20 @@
 ---
 
 ## 🧑‍💻 About Me
-```java
-public class Atharva {
 
-    String role     = "Full Stack Java Developer & GenAI Engineer";
-    String company  = "IQ Innovation Hub LLP";
-    String location = "Pune, India 🇮🇳";
-    String cert     = "CDAC Certified Full Stack Developer";
+I’m a CDAC Certified Full Stack Developer building **production-grade backend systems and AI-powered applications**.
 
-    String[] currentlyBuilding = {
-        "Enterprise POS System (Spring Boot + React)",
-        "Production GenAI Systems (LangChain + LangGraph)"
-    };
+Currently working at **IQ Innovation Hub LLP**, where I focus on designing scalable systems across two core areas:
 
-    String[] lookingFor = {
-        "Full Stack Java Roles",
-        "GenAI Engineer Roles",
-        "Python / FastAPI Roles"
-    };
+- **Backend Engineering:** Java, Spring Boot, microservices, and distributed APIs (REST, gRPC, GraphQL)  
+- **Applied AI Systems:** RAG pipelines, LangChain/LangGraph workflows, and enterprise AI applications  
 
-    String funFact = "I reduced API latency by 98% — from 10s to 172ms 🚀";
-}
+I enjoy solving real-world problems by combining **strong backend architecture with intelligent systems**, ensuring performance, reliability, and scalability in production environments.
+
+### 🚀 Current Focus
+- Building enterprise systems like **POS platforms and high-scale backend services**
+- Developing **GenAI applications** with retrieval, reasoning, and automation workflows
+- Optimizing systems for **latency, throughput, and fault tolerance**
 ```
 
 ---
