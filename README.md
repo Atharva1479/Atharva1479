@@ -7,7 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Atharva1479&color=1A56DB&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-jamdar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvajamdar1810@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=google-chrome&logoColor=white)](atharva-jamdar.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atharva-jamdar.vercel.app)
 
 </div>
 
@@ -20,7 +20,7 @@ public class Atharva {
     String role     = "Full Stack Java Developer & GenAI Engineer";
     String company  = "IQ Innovation Hub LLP";
     String location = "Pune, India 🇮🇳";
-    String cert     = "CDAC Certified";
+    String cert     = "CDAC Certified Full Stack Developer";
 
     String[] currentlyBuilding = {
         "Enterprise POS System (Spring Boot + React)",
