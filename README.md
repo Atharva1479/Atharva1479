@@ -28,7 +28,7 @@ I enjoy solving real-world problems by combining **strong backend architecture w
 - Building enterprise systems like **POS platforms and high-scale backend services**
 - Developing **GenAI applications** with retrieval, reasoning, and automation workflows
 - Optimizing systems for **latency, throughput, and fault tolerance**
-```
+
 
 ---
 
