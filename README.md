@@ -39,9 +39,9 @@ I enjoy solving real-world problems by combining **strong backend architecture w
 | 🤖 AI Meeting Intelligence | LangChain · LangGraph · Zoom API | 92%+ accuracy · 100+ sessions | Work |
 | 📊 Enterprise Excel Chatbot | LangGraph · Pinecone · BM25 | 60% fewer incorrect answers | Work |
 | 📄 PDF Extraction Pipeline | LangChain · pdfplumber | 99% accuracy on complex PDFs | Work |
-| 💬 Git Talk AI | LangChain · FastAPI · Gemini | 50% faster dev onboarding | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Atharva1479) [![Live](https://img.shields.io/badge/Live-28a745?style=flat&logo=vercel&logoColor=white)](#) |
+| 💬 Git Talk AI | LangChain · FastAPI · Gemini | 50% faster dev onboarding | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Atharva1479/GitTalk-AI) [![Live](https://img.shields.io/badge/Live-28a745?style=flat&logo=vercel&logoColor=white)](https://git-talk-ai.vercel.app/) |
 | 🏪 Enterprise POS System | Spring Boot · React · MySQL | 40% less manual reporting | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Atharva1479) |
-| 🔐 PasteVault | Next.js · Spring Boot · PostgreSQL | 60% faster page loads | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Atharva1479) [![Live](https://img.shields.io/badge/Live-28a745?style=flat&logo=vercel&logoColor=white)](#) |
+| 🔐 PasteVault | Next.js · Spring Boot · PostgreSQL | 60% faster page loads | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Atharva1479/PasteVault-Backend) [![Live](https://img.shields.io/badge/Live-28a745?style=flat&logo=vercel&logoColor=white)](https://paste-vault-frontend.vercel.app/) |
 
 ---
 
