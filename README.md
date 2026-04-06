@@ -12,6 +12,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Atharva1479&color=10b981&style=flat-square&label=Profile+Views" />
 
+
 </div>
 
 <br/>
@@ -39,6 +40,28 @@ tracks:
     - LangChain document extraction pipeline (99% accuracy)
     - Guardrails & hallucination reduction across GenAI services
 ```
+
+<br/>
+
+<!-- Currently Working On -->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;Currently Working On
+
+<div align="center">
+<table>
+<tr>
+<td>🔧</td>
+<td><b>Enterprise Insurance Platform</b> — Scaling Spring Boot microservices with gRPC & Redis caching</td>
+</tr>
+<tr>
+<td>🤖</td>
+<td><b>Agentic AI Systems</b> — Building multi-pipeline meeting intelligence & document extraction tools</td>
+</tr>
+<tr>
+<td>🏪</td>
+<td><b>Enterprise POS System</b> — Full-stack POS with role dashboards, analytics & Razorpay integration</td>
+</tr>
+</table>
+</div>
 
 <br/>
 
