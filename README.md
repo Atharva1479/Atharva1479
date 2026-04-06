@@ -106,22 +106,13 @@ tracks:
 <summary><b>🚀 Open Source Projects</b></summary>
 <br/>
 
-<div align="center">
-
-<a href="https://github.com/Atharva1479/GitTalk-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva1479&repo=GitTalk-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=1a56db&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Atharva1479/PasteVault-Backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva1479&repo=PasteVault-Backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=1a56db&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Atharva1479/AI-Ecommerce-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva1479&repo=AI-Ecommerce-Platform&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=1a56db&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/HospitalManagemenSystem/CDAC_Hospital">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HospitalManagemenSystem&repo=CDAC_Hospital&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=1a56db&text_color=c9d1d9" />
-</a>
-
-</div>
+| Project | Tech | Highlights | Links |
+|:---|:---|:---|:---:|
+| **GitTalk AI** | React · FastAPI · LangChain · Gemini · Pinecone | RAG chatbot for any GitHub repo · 50% faster onboarding | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Atharva1479/GitTalk-AI) [![Live](https://img.shields.io/badge/Live-10b981?style=flat-square&logo=vercel&logoColor=white)](https://git-talk-ai.vercel.app/) |
+| **PasteVault** | Next.js · Spring Boot · PostgreSQL · Bucket4j | TTL expiration · atomic view counts · rate limiting | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Atharva1479/PasteVault-Backend) [![Live](https://img.shields.io/badge/Live-10b981?style=flat-square&logo=vercel&logoColor=white)](https://paste-vault-frontend.vercel.app/) |
+| **Enterprise POS** | React · Spring Boot · MySQL · Razorpay | 3 role dashboards · real-time analytics · payment gateway | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Atharva1479) |
+| **AI E-Commerce** | Python · Django · SQLite · Scikit-learn | ML recommendations · smart bundling · 35% more engagement | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Atharva1479/AI-Ecommerce-Platform) |
+| **Hospital Management** | React · Spring Boot · MySQL · JWT | Admin/Doctor/Patient RBAC · appointment scheduling | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/HospitalManagemenSystem/CDAC_Hospital) |
 
 </details>
 
@@ -154,8 +145,14 @@ tracks:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharva1479&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=1a56db&text_color=c9d1d9&ring_color=10b981" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva1479&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Atharva1479&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=1a56db&text_color=c9d1d9&ring_color=10b981" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Atharva1479&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=1a56db&text_color=c9d1d9&ring_color=10b981" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atharva1479&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atharva1479&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" />
+</picture>
 
 </div>
 
