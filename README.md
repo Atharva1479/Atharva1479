@@ -1,113 +1,192 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1A56DB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Atharva+Jamdar;Full+Stack+Developer+%7C+AI+Engineer;Building+Production-Grade+Systems;Spring+Boot+%C2%B7+FastAPI+%C2%B7+LangChain+%C2%B7+React)](https://git.io/typing-svg)
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a56db,100:10b981&height=220&section=header&text=Atharva%20Jamdar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Engineer&descSize=16&descAlignY=55&descAlign=50" width="100%" />
 
-<!-- Profile Views + Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Atharva1479&color=1A56DB&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-jamdar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atharva-jamdar.vercel.app)
+<!-- Badges Row -->
+<p>
+<a href="https://atharva-jamdar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-atharva--jamdar.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/atharva-jamdar"><img src="https://img.shields.io/badge/LinkedIn-atharva--jamdar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Atharva1479"><img src="https://img.shields.io/badge/GitHub-Atharva1479-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-Software Engineer at **IQ Innovation Hub LLP** with 1+ year of experience working across two parallel tracks — **enterprise backend engineering** and **production GenAI development**.
-
-- **⚙️ Engineering Track:** Spring Boot microservices, REST/gRPC/GraphQL APIs, Redis caching, and distributed systems for a large-scale insurance aggregation platform
-- **🤖 AI Track:** Agentic AI systems, RAG pipelines, LangChain/LangGraph workflows, and production-deployed intelligent applications
-
-### 🚀 Current Focus
-- Scaling enterprise backend systems for **low-latency, high-throughput** workloads
-- Building **agentic AI systems** with multi-step reasoning, hybrid retrieval, and guardrails
-- Optimizing systems for **fault tolerance and reliability** in production
-
----
-
-## ⚡ What I've Shipped
-
-| Project | Tech | Impact | Link |
-|---|---|---|---|
-| 🤖 AI Meeting Intelligence | LangChain · LangGraph · Zoom/Teams API | 92%+ accuracy · 100+ sessions · 70% less manual effort | Work |
-| 📊 Enterprise Excel Chatbot | LangGraph · Pinecone · BM25 · Cohere | 60% fewer incorrect answers vs single-vector | Work |
-| 📄 PDF Extraction Pipeline | LangChain · PDFPlumber | 99% accuracy on complex/non-standard PDFs | Work |
-| 🔧 Insurance Aggregation Platform | Spring Boot · gRPC · GraphQL · Redis | 98% latency reduction (10s → 172ms) | Work |
-| 💬 Git Talk AI | FastAPI · LangChain · Gemini · Pinecone | 50% faster dev onboarding | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Atharva1479/GitTalk-AI) [![Live](https://img.shields.io/badge/Live-28a745?style=flat&logo=vercel&logoColor=white)](https://git-talk-ai.vercel.app/) |
-| 🏪 Enterprise POS System | Spring Boot · React · MySQL · Razorpay | 3 role dashboards · 40% less manual reporting | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Atharva1479) |
-| 🔐 PasteVault | Next.js · Spring Boot · PostgreSQL · Bucket4j | 60% faster page loads · atomic view counting | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Atharva1479/PasteVault-Backend) [![Live](https://img.shields.io/badge/Live-28a745?style=flat&logo=vercel&logoColor=white)](https://paste-vault-frontend.vercel.app/) |
-| 🏥 Hospital Management System | React · Spring Boot · MySQL · JWT | Role-based access (Admin/Doctor/Patient) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/HospitalManagemenSystem/CDAC_Hospital) |
-
----
-
-## 🛠️ Tech Stack
-
-#### ⚙️ Backend Engineering
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### 🔗 API & Communication
-![REST](https://img.shields.io/badge/REST-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-#### 🤖 GenAI & Agentic AI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=ai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-
-#### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### 🗄️ Databases & State
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Atharva1479&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://komarev.com/ghpvc/?username=Atharva1479&color=10b981&style=flat-square&label=Profile+Views" />
 
 </div>
 
+<br/>
+
+<!-- About Section -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
+
+```yaml
+name: Atharva Jamdar
+role: Software Engineer @ IQ Innovation Hub LLP
+experience: 1+ year
+location: Pune, India
+education: PG Diploma (CDAC) | B.E. Computer Engineering (AISSMS)
+
+tracks:
+  engineering:
+    - Spring Boot microservices for insurance aggregation (10+ provider APIs)
+    - REST, gRPC & GraphQL APIs across distributed systems
+    - Reduced API latency from 10,000ms to 172ms (98% improvement)
+    - Redis caching, rate limiting & fault tolerance at scale
+    
+  ai:
+    - Agentic meeting intelligence system (92%+ accuracy, 100+ sessions)
+    - LangGraph Excel chatbot with hybrid search & Cohere reranking
+    - LangChain document extraction pipeline (99% accuracy)
+    - Guardrails & hallucination reduction across GenAI services
+```
+
+<br/>
+
+<!-- Metrics Strip -->
+<div align="center">
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/98%25-10b981?style=for-the-badge" /><br/>
+<sub><b>API Latency Reduction</b></sub><br/>
+<sub>10,000ms → 172ms</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/92%25+-10b981?style=for-the-badge" /><br/>
+<sub><b>AI Accuracy</b></sub><br/>
+<sub>100+ meeting sessions</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/99%25-10b981?style=for-the-badge" /><br/>
+<sub><b>PDF Extraction Accuracy</b></sub><br/>
+<sub>Complex non-standard formats</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/70%25-10b981?style=for-the-badge" /><br/>
+<sub><b>Failure Reduction</b></sub><br/>
+<sub>Under peak traffic load</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
 ---
 
-## 📈 Contribution Graph
+<!-- What I've Shipped -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Production Systems I've Built
+
+<details>
+<summary><b>⚙️ Engineering Track — Enterprise Backend Systems</b></summary>
+<br/>
+
+| System | Tech Stack | Key Metrics |
+|:---|:---|:---|
+| **Insurance Aggregation Platform** | Spring Boot · gRPC · GraphQL · Redis | 10+ provider APIs · 98% latency reduction · 5,000+ daily txns |
+| **Rate Limiting & Fault Tolerance** | Spring Boot · Redis · Circuit Breaker | 70% fewer downstream failures · 3x throughput under peak |
+| **Multi-Cloud Deployment** | Spring Profiles · Azure · AWS · GCP | Reusable libs across 3+ services · 99.9% uptime |
+
+</details>
+
+<details>
+<summary><b>🤖 AI Track — Production GenAI Systems</b></summary>
+<br/>
+
+| System | Tech Stack | Key Metrics |
+|:---|:---|:---|
+| **AI Meeting Intelligence** | LangChain · LangGraph · Zoom/Teams Bot | 92%+ accuracy · 100+ sessions · 2 ingestion pipelines |
+| **Enterprise Excel Chatbot** | LangGraph · Pinecone · BM25 · Cohere | 60% fewer incorrect answers vs single-vector |
+| **PDF Extraction Pipeline** | LangChain · PDFPlumber | 99% accuracy on complex non-standard PDFs |
+| **GenAI Guardrails Layer** | FastAPI · Prompt Validation · XSS Protection | 45% fewer invalid outputs · 30% token savings |
+
+</details>
+
+<details open>
+<summary><b>🚀 Open Source Projects</b></summary>
+<br/>
 
 <div align="center">
 
-[![Atharva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharva1479&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/Atharva1479/GitTalk-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva1479&repo=GitTalk-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=1a56db&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Atharva1479/PasteVault-Backend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva1479&repo=PasteVault-Backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=1a56db&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Atharva1479/AI-Ecommerce-Platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva1479&repo=AI-Ecommerce-Platform&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=1a56db&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/HospitalManagemenSystem/CDAC_Hospital">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HospitalManagemenSystem&repo=CDAC_Hospital&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=1a56db&text_color=c9d1d9" />
+</a>
 
 </div>
 
+</details>
+
+<br/>
+
 ---
+
+<!-- Tech Stack -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Tech Stack
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Production-Ready
+| Domain | Technologies |
+|:---|:---|
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) |
+| **APIs** | ![REST](https://img.shields.io/badge/REST-FF6F00?style=flat-square&logo=postman&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| **GenAI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-000?style=flat-square&logo=ai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square&logo=pinecone&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/atharva-jamdar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1A56DB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atharva-jamdar.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/Atharva1479)
+</div>
+
+<br/>
+
+---
+
+<!-- GitHub Stats -->
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharva1479&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=1a56db&text_color=c9d1d9&ring_color=10b981" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva1479&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Atharva1479&theme=dark&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=c9d1d9&dates=6e7681)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharva1479&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=10b981&point=1a56db&area=true&area_color=10b981)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a56db,100:10b981&height=120&section=footer" width="100%" />
+
+<br/>
+
+**Building systems that scale. Shipping code that matters.**
+
+<br/>
+
+<a href="https://atharva-jamdar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/atharva-jamdar"><img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
