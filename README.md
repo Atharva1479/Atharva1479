@@ -129,39 +129,9 @@ tracks:
 <summary><b>🚀 Open Source Projects</b></summary>
 <br/>
 
-| **GitHired** | Next.js 14 · FastAPI · PostgreSQL · Ollama · Gemini · TanStack Query | AI job hunt OS — ATS
-  scorer (92/100), mock interviews, job discovery, kanban tracker & voice AI pilot |
-  [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://g
-  ithub.com/Atharva1479/GitHired) |
-
-  So the full updated Open Source Projects table looks like:
-
-  | Project | Tech | Highlights | Links |
-  |:---|:---|:---|:---:|
-  | **GitHired** | Next.js 14 · FastAPI · PostgreSQL · Ollama · Gemini · TanStack Query | AI job hunt OS — ATS
-  scorer (92/100), mock interviews, job discovery, kanban tracker & voice AI pilot |
-  [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://g
-  ithub.com/Atharva1479/GitHired) |
-  | **GitTalk AI** | React · FastAPI · LangChain · Gemini · Pinecone | RAG chatbot for any GitHub repo · 50%
-  faster onboarding | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoCol
-  or=white)](https://github.com/Atharva1479/GitTalk-AI) [![Live](https://img.shields.io/badge/Live-10b981?style
-  =flat-square&logo=vercel&logoColor=white)](https://git-talk-ai.vercel.app/) |
-  | **PasteVault** | Next.js · Spring Boot · PostgreSQL · Bucket4j | TTL expiration · atomic view counts · rate
-  limiting | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white
-  )](https://github.com/Atharva1479/PasteVault-Backend) [![Live](https://img.shields.io/badge/Live-10b981?style
-  =flat-square&logo=vercel&logoColor=white)](https://paste-vault-frontend.vercel.app/) |
-  | **Enterprise POS** | React · Spring Boot · MySQL · Razorpay | 3 role dashboards · real-time analytics ·
-  payment gateway | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor
-  =white)](https://github.com/Atharva1479) |
-  | **AI E-Commerce** | Python · Django · SQLite · Scikit-learn | ML recommendations · smart bundling · 35%
-  more engagement | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor
-  =white)](https://github.com/Atharva1479/AI-Ecommerce-Platform) |
-  | **Hospital Management** | React · Spring Boot · MySQL · JWT | Admin/Doctor/Patient RBAC · appointment
-  scheduling | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=whit
-  e)](https://github.com/HospitalManagemenSystem/CDAC_Hospital) |
-
 | Project | Tech | Highlights | Links |
 |:---|:---|:---|:---:|
+| **GitHired** | Next.js 14 · FastAPI · PostgreSQL · Ollama · Gemini · TanStack Query | AI job hunt OS — ATS scorer, mock interviews, job discovery, kanban tracker & voice AI pilot | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Atharva1479/GitHired) |
 | **GitTalk AI** | React · FastAPI · LangChain · Gemini · Pinecone | RAG chatbot for any GitHub repo · 50% faster onboarding | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Atharva1479/GitTalk-AI) [![Live](https://img.shields.io/badge/Live-10b981?style=flat-square&logo=vercel&logoColor=white)](https://git-talk-ai.vercel.app/) |
 | **PasteVault** | Next.js · Spring Boot · PostgreSQL · Bucket4j | TTL expiration · atomic view counts · rate limiting | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Atharva1479/PasteVault-Backend) [![Live](https://img.shields.io/badge/Live-10b981?style=flat-square&logo=vercel&logoColor=white)](https://paste-vault-frontend.vercel.app/) |
 | **Enterprise POS** | React · Spring Boot · MySQL · Razorpay | 3 role dashboards · real-time analytics · payment gateway | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Atharva1479) |
